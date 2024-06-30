@@ -494,7 +494,7 @@
                     <key>framebuffer-con1-preferred-lspcon-mode</key>
                     <data>AQAAAA==</data>
                     <key>framebuffer-con1-type</key>
-                    <data>AgAAAA==</data>
+                    <data>AAgAAA==</data>
                     <key>framebuffer-con2-alldata</key>
                     <data>AgYJAAAEAACHAQAA</data>
                     <key>framebuffer-con2-enable</key>
@@ -622,7 +622,7 @@
                     <key>BundlePath</key>
                     <string>CPUFriendDataProvider.kext</string>
                     <key>Comment</key>
-                    <string>V1.0.0 | CPUFriendDataProvider.kext</string>
+                    <string>V1.0.0</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -1575,28 +1575,133 @@
             <true/>
             <key>CustomMemory</key>
             <false/>
+            <key>DataHub</key>
+            <dict>
+                <key>ARTFrequency</key>
+                <integer>0</integer>
+                <key>BoardProduct</key>
+                <string></string>
+                <key>BoardRevision</key>
+                <data></data>
+                <key>DevicePathsSupported</key>
+                <integer>0</integer>
+                <key>FSBFrequency</key>
+                <integer>0</integer>
+                <key>InitialTSC</key>
+                <integer>0</integer>
+                <key>PlatformName</key>
+                <string></string>
+                <key>SmcBranch</key>
+                <data></data>
+                <key>SmcPlatform</key>
+                <data></data>
+                <key>SmcRevision</key>
+                <data></data>
+                <key>StartupPowerEvents</key>
+                <integer>0</integer>
+                <key>SystemProductName</key>
+                <string>iMac20,2</string>
+                <key>SystemSerialNumber</key>
+                <string>C02HG2Y4046M</string>
+                <key>SystemUUID</key>
+                <string>BCC22885-D49B-4181-ABAC-F780AE7737A9</string>
+            </dict>
             <key>Generic</key>
             <dict>
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>C02113404QX0000JC</string>
+                <string>C02212902GU0000FB</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
                 <integer>0</integer>
                 <key>ROM</key>
-                <data>kAfG9Y1t</data>
+                <data>iBVbOgM2</data>
                 <key>SpoofVendor</key>
                 <true/>
                 <key>SystemMemoryStatus</key>
                 <string>Auto</string>
                 <key>SystemProductName</key>
-                <string>MacBookPro16,4</string>
+                <string>iMac20,2</string>
                 <key>SystemSerialNumber</key>
-                <string>C02FH0EQMD6T</string>
+                <string>C02HG2Y4046M</string>
                 <key>SystemUUID</key>
-                <string>08CDC211-52CA-40DD-928F-5EEE56E2D8C4</string>
+                <string>BCC22885-D49B-4181-ABAC-F780AE7737A9</string>
+            </dict>
+            <key>PlatformNVRAM</key>
+            <dict>
+                <key>BID</key>
+                <string></string>
+                <key>FirmwareFeatures</key>
+                <data></data>
+                <key>FirmwareFeaturesMask</key>
+                <data></data>
+                <key>MLB</key>
+                <string>C02212902GU0000FB</string>
+                <key>ROM</key>
+                <data>iBVbOgM2</data>
+                <key>SystemSerialNumber</key>
+                <string>C02HG2Y4046M</string>
+                <key>SystemUUID</key>
+                <string>BCC22885-D49B-4181-ABAC-F780AE7737A9</string>
+            </dict>
+            <key>SMBIOS</key>
+            <dict>
+                <key>BIOSReleaseDate</key>
+                <string></string>
+                <key>BIOSVendor</key>
+                <string></string>
+                <key>BIOSVersion</key>
+                <string></string>
+                <key>BoardAssetTag</key>
+                <string></string>
+                <key>BoardLocationInChassis</key>
+                <string></string>
+                <key>BoardManufacturer</key>
+                <string></string>
+                <key>BoardProduct</key>
+                <string></string>
+                <key>BoardSerialNumber</key>
+                <string></string>
+                <key>BoardType</key>
+                <integer>0</integer>
+                <key>BoardVersion</key>
+                <string></string>
+                <key>ChassisAssetTag</key>
+                <string></string>
+                <key>ChassisManufacturer</key>
+                <string></string>
+                <key>ChassisSerialNumber</key>
+                <string></string>
+                <key>ChassisType</key>
+                <integer>0</integer>
+                <key>ChassisVersion</key>
+                <string></string>
+                <key>FirmwareFeatures</key>
+                <data></data>
+                <key>FirmwareFeaturesMask</key>
+                <data></data>
+                <key>PlatformFeature</key>
+                <integer>0</integer>
+                <key>ProcessorType</key>
+                <integer>0</integer>
+                <key>SmcVersion</key>
+                <data></data>
+                <key>SystemFamily</key>
+                <string></string>
+                <key>SystemManufacturer</key>
+                <string></string>
+                <key>SystemProductName</key>
+                <string>iMac20,2</string>
+                <key>SystemSKUNumber</key>
+                <string></string>
+                <key>SystemSerialNumber</key>
+                <string>C02HG2Y4046M</string>
+                <key>SystemUUID</key>
+                <string>BCC22885-D49B-4181-ABAC-F780AE7737A9</string>
+                <key>SystemVersion</key>
+                <string></string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
